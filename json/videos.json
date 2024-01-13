@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Fire Safety",
+        "time": "60 seconds",
+        "thumbnail": "assets/images/tips/img_1.png",
+        "url": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+    },
+    {
+        "title": "Fire Safety",
+        "time": "55 seconds",
+        "thumbnail": "assets/images/tips/img_2.png",
+        "url": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+    },
+    {
+        "title": "Fire Safety",
+        "time": "45 seconds",
+        "thumbnail": "assets/images/tips/img_3.png",
+        "url": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+    },
+    {
+        "title": "Fire Safety",
+        "time": "40 seconds",
+        "thumbnail": "assets/images/tips/img_4.png",
+        "url": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+    },
+    {
+        "title": "Fire Safety",
+        "time": "30 seconds",
+        "thumbnail": "assets/images/tips/img_5.png",
+        "url": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+    },
+    {
+        "title": "Fire Safety",
+        "time": "55 seconds",
+        "thumbnail": "assets/images/tips/img_6.png",
+        "url": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+    }
+]
